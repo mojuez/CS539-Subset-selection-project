@@ -5,4 +5,5 @@ Subset Selection: Finding Key Dimensionless Parameters Impacting the Normalized 
 Team #: 3
 Team members:
 Dongzheng Chen, Dept. ECE and Dept. Materials Science and Engineering, Graduate
+
 Mojue Zhang, Dept. Materials Science and Engineering, Graduate
